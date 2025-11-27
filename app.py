@@ -2849,6 +2849,7 @@ st.markdown("""
 <div class="footer">
     <h4>FinTech AI Ethics & Governance Toolkit</h4>
     <p>Version 1.0.0 | Last Updated: November 2025</p>
+    <p>Developed by Professor Vangelis Tsiligkiris</p>
     <p>Built for educational and professional use in financial services AI governance.</p>
     <p style="font-size: 0.8rem; margin-top: 1rem;">
         This tool is for educational purposes. Always consult with legal and compliance 
